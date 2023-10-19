@@ -1,0 +1,51 @@
+body, ul, li, ol, p, pre, h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: rgb(255, 255, 255);
+padding: 35px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+
+
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section {
+    margin-bottom: 20px;
+}
+.cakes {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: goldenrod;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+}
